@@ -1,0 +1,199 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+h1
+{
+    align-content: center;
+    margin: auto;
+    color: white;
+}
+
+#superdiv
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 550px;
+    flex-direction: column;
+}
+
+#maindiv
+{
+    background-color: lightblue;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 500px;
+    height: 300px;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+
+.admin
+{
+    height: 40px;
+    width: 225px;
+    border-radius: 10px;
+    border: black solid 1px;
+}
+
+/* ! ADMIN CSS STARTED */
+
+.admip
+{
+    height: 35px;
+    width: 225px;
+    margin: 5px 0px;
+    border-radius: 5px;
+    border: black solid 1px
+}
+
+.savenreset
+{
+    width: 113px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 6px;
+    margin: 5px 0px;
+
+}
+
+#view
+{
+    height: 35px;
+    width: 225px;
+    border-radius: 5px;
+    border: black solid 1px
+}
+
+/* ! ADM PRODUCTS STARTED */
+
+table
+{
+    border-collapse: collapse;
+    background-color: lightblue;
+
+}
+
+.prodips
+{
+    border: none;
+    height: 35px;
+    background-color: lightblue;
+
+}
+
+#tablediv
+{
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+    height: 550px;
+
+}
+
+#tablediv button 
+{
+    height: 29px;
+    width: 110px;
+    border-radius: 10px;
+    background-color: greenyellow;
+    margin-top: 5px
+}
+
+/* ! CUSTOMER STYLE STARTED */
+
+#csearch input
+{
+    height: 35px;
+    width: 225px;
+    margin: 5px 0px;
+    border-radius: 5px;
+    border: black solid 1px
+}
+
+#csuperdiv
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+
+
+#cmaindiv
+{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    background-color: lightblue;
+
+    width: 500px;
+    margin-top: 10px;
+    border-radius: 20px;
+    justify-content: center;
+    height: 120px;
+}
+
+#csubdiv
+{
+    margin-left: 20px;
+    
+}
+
+#csubdiv button
+{
+    height: 29px;
+    width: 110px;
+    border-radius: 10px;
+    background-color: greenyellow;
+    margin-top: 5px
+}
+
+
+
+/* ! HEADER */
+
+header 
+{
+    /* background-color: #2455f4; */
+    background-color: black;
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    height: 60px;
+}
+
+footer
+{
+    /* background-color: #2455f4; */
+    background-color: black;
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 60px;
+}
+
+footer h4
+{
+    padding-left: 25px;
+}
+
+/* ! CART  */
+
+#cartbtn
+{
+    height: 29px;
+    width: 110px;
+    border-radius: 10px;
+    background-color: greenyellow;
+    margin-top: 5px
+}

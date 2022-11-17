@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "pname": "Laptop",
+      "price": "55000"
+    },
+    {
+      "id": "2",
+      "pname": "Mobile Phone ",
+      "price": "30000"
+    },
+    {
+      "id": "3",
+      "pname": "Battery",
+      "price": "7600"
+    },
+    {
+      "id": "4",
+      "pname": "Bulb",
+      "price": "100"
+    },
+    {
+      "id": "5",
+      "pname": "Table Fan",
+      "price": "1200"
+    },
+    {
+      "id": "6",
+      "pname": "Laser Light",
+      "price": "5000"
+    },
+    {
+      "id": "7",
+      "pname": "EarPhones",
+      "price": "700"
+    }
+  ]
+}

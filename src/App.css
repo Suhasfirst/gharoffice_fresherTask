@@ -1,0 +1,14 @@
+*
+{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.App
+{
+  background-image: url("https://www.solvay.com/sites/g/files/srpend221/files/styles/halfwidth/https/media.solvay.com/medias/domain1446/media100750/225187-geoul1o2uu.jpg?itok=Ze89TDu7");
+  /* background-image: url("https://images.unsplash.com/photo-1562408590-e32931084e23?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"); */
+  background-repeat: no-repeat;
+  background-size: cover;
+}
